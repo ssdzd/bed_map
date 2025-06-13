@@ -5,6 +5,13 @@
   text-align: center;
 }
 
+:root {
+  --bed-none: #9CA3AF;
+  --bed-video: #FDE047;
+  --bed-buddy: #FB923C;
+  --bed-complete: #4ADE80;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
